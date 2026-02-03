@@ -1,1 +1,2 @@
 Este es un archivo de prueba para el control de cambios con Git.
+Esta línea fue agregada para probar una modificación.
